@@ -24,7 +24,7 @@ http://<hostname>:8081
 ```
 root@xxxxxxxxxxxx:/opt/html/vuetify# yarn serve
 ```
-6. Start coding. Result can be dinamically checked via web browser with port 8080.
+6. Start coding. Result can be dynamically checked via web browser with port 8080.
 ```
 http://<hostname>:8080
 ```
