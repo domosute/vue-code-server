@@ -1,7 +1,0 @@
-[2019-11-20 11:02:56.133] [remoteagent] [info] update#setState idle
-[2019-11-20 11:03:13.205] [remoteagent] [info] request.url "/"
-[2019-11-20 11:03:14.517] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/.local/share/code-server/User'
-[2019-11-20 11:03:26.133] [remoteagent] [info] update#setState checking for updates
-[2019-11-20 11:03:26.346] [remoteagent] [info] update#setState idle
-[2019-11-20 11:03:51.887] [remoteagent] [info] request.url "/?folder=/usr/share/nginx/html"
-[2019-11-20 11:07:43.249] [remoteagent] [error] [File Watcher (chokidar)] terminated unexpectedly and is restarted again...
