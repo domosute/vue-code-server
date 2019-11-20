@@ -1,1 +1,29 @@
-# Vue.js3 + Vuetify + Code-server (https://coder.com) developement environement in Docker
+# vuetify-code-server
+Vue.js3 + Vuetify + Code-server (https://coder.com) developement environement in Docker
+Used [Coder](https://coder.com) as base image.
+
+How to Run the Image
+------------
+1. Clone this repository.
+```
+git clone https://github.com/domosute/vuetify-code-server.git
+```
+2. Build the image
+```
+docker-compose build
+```
+3. Start the server
+```
+docker-compose up -d
+```
+4. Access to code-server via web browser. Port 8081 is assigned for it.
+```
+http://<hostname>:8081
+```
+5. Open the terminal from code-server, and from the `/opt/html/vuetify` directory, activate Hot-Module-Replacement of vue-cli-service.
+```
+root@xxxxxxxxxxxx:/opt/html/vuetify# yarn serve
+```
+6. Start coding. Result can be dinamically checked via web browser with port 8080.
+```
+http://<hostname>:8080
