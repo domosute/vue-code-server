@@ -22,7 +22,7 @@ apt-get autoclean
 COPY entrypoint.sh /usr/local/bin
 RUN chmod 755 /usr/local/bin/entrypoint.sh
 
-WORKDIR /opt/html
+WORKDIR /opt/html/
 EXPOSE 8080 8081 
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
