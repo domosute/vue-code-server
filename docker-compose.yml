@@ -1,0 +1,20 @@
+version: "3.7"
+
+services:
+
+  vuetify-code-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: vuetify-code-server
+    container_name: vuetify-code-server
+    environment:
+      TZ: "America/Chicago"
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    working_dir: /home/coder/project/vuetify
+    volumes:
+      - /opt/docker-compose.d/vuetify-code-server/coder:/home/coder
+      - /opt/docker-compose.d/vuetify-code-server/project:/home/coder/project
+      

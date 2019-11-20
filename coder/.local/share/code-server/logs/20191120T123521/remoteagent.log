@@ -1,0 +1,4 @@
+[2019-11-20 12:35:21.121] [remoteagent] [info] update#setState idle
+[2019-11-20 12:35:23.669] [remoteagent] [info] request.url "/?folder=/usr/share/nginx/html"
+[2019-11-20 12:35:51.122] [remoteagent] [info] update#setState checking for updates
+[2019-11-20 12:35:51.355] [remoteagent] [info] update#setState idle

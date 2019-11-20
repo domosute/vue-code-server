@@ -1,0 +1,30 @@
+[2019-11-20 11:03:15.693] [exthost] [info] extension host started
+[2019-11-20 11:03:15.717] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-20 11:03:15.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2019-11-20 11:03:15.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-20 11:03:15.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/emmet/dist/extension
+[2019-11-20 11:03:15.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-20 11:03:15.756] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/git/dist/main
+[2019-11-20 11:03:15.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-20 11:03:15.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2019-11-20 11:03:15.821] [exthost] [info] eager extensions activated
+[2019-11-20 11:03:54.704] [exthost] [info] extension host started
+[2019-11-20 11:03:54.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-20 11:03:54.756] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2019-11-20 11:03:54.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-20 11:03:54.760] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/emmet/dist/extension
+[2019-11-20 11:03:54.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-20 11:03:54.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/git/dist/main
+[2019-11-20 11:03:54.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-20 11:03:54.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2019-11-20 11:03:54.858] [exthost] [info] eager extensions activated
+[2019-11-20 11:07:43.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2019-11-20 11:07:43.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/configuration-editing/dist/extension
+[2019-11-20 11:07:43.111] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-11-20 11:07:43.111] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/extension-editing/dist/extension
+[2019-11-20 11:07:43.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2019-11-20 11:07:43.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/json-language-features/client/dist/jsonMain
+[2019-11-20 11:07:43.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-11-20 11:07:43.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/npm/dist/main
+[2019-11-20 11:07:43.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-11-20 11:07:43.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1692-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension

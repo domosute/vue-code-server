@@ -1,0 +1,5 @@
+[2019-11-20 12:10:20.800] [remoteagent] [info] update#setState idle
+[2019-11-20 12:10:23.492] [remoteagent] [info] request.url "/?folder=/usr/share/nginx/html"
+[2019-11-20 12:10:50.800] [remoteagent] [info] update#setState checking for updates
+[2019-11-20 12:10:50.972] [remoteagent] [info] update#setState idle
+[2019-11-20 12:12:17.756] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
