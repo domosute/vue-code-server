@@ -8,11 +8,11 @@ How to Run the Image
 ```
 git clone https://github.com/domosute/vuetify-code-server.git
 ```
-2. Build the image
+2. Build the image.
 ```
 docker-compose build
 ```
-3. Start the server
+3. Start the server.
 ```
 docker-compose up -d
 ```
