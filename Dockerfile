@@ -18,7 +18,6 @@ yarn global add @vue/cli && \
 yarn global add @vue/cli-service-global && \
 apt-get autoclean
 
-# COPY --from=builder /usr/local/bin/code-server /usr/local/bin/code-server
 COPY entrypoint.sh /usr/local/bin
 RUN chmod 755 /usr/local/bin/entrypoint.sh
 
