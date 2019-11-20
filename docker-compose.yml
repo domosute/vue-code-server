@@ -16,5 +16,6 @@ services:
     working_dir: /home/coder/project/vuetify
     volumes:
       - /opt/docker-compose.d/vuetify-code-server/coder:/home/coder
-      - /opt/docker-compose.d/vuetify-code-server/project:/home/coder/project
+      - /opt/docker-compose.d/vuetify-code-server/html:/opt/html
+
       

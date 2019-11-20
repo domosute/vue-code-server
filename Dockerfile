@@ -1,7 +1,5 @@
 FROM codercom/code-server:v2 as builder
 
-# FROM nginx as runner
-
 USER root
 
 # Update, upgrade
@@ -24,7 +22,7 @@ apt-get autoclean
 COPY entrypoint.sh /usr/local/bin
 RUN chmod 755 /usr/local/bin/entrypoint.sh
 
-WORKDIR /home/coder/project
+WORKDIR /opt/html
 EXPOSE 8080 8081 
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
