@@ -35,5 +35,4 @@ root@xxxxxxxxxxxx:/opt/html# vue create <project name>
 root@xxxxxxxxxxxx:/opt/html# cd <project name>
 root@xxxxxxxxxxxx:/opt/html/<project name># yarn upgrade
 root@xxxxxxxxxxxx:/opt/html/<project name># yarn serve
-
 ```
