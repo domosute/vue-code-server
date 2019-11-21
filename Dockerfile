@@ -23,7 +23,6 @@ RUN chmod 755 /usr/local/bin/entrypoint.sh
 
 WORKDIR /opt/html/
 # Opening Ports
-# - 8000: vue ui
 # - 8080: Hot-Module-Replacement (vue-cli-service)
 # - 8081: code-server
 EXPOSE 8000 8080 8081 
