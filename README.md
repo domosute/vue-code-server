@@ -37,7 +37,7 @@ root@xxxxxxxxxxxx:/opt/html/<project name># yarn upgrade
 root@xxxxxxxxxxxx:/opt/html/<project name># yarn serve
 ```
 
--[Note]: Make sure to add vue.config.js file with below content for http://localhost:8080 to work-
+_[Note]: Make sure to add vue.config.js file with below content for http://localhost:8080 to work_
 
 ```
 module.exports = {
