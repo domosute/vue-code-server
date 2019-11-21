@@ -20,8 +20,9 @@ docker-compose up -d
 ```
 http://<hostname>:8081
 ```
-5. Open the terminal from code-server, and from the `/opt/html/vuetify` directory, activate Hot-Module-Replacement of vue-cli-service.
+5. Open the terminal from code-server, and from the `/opt/html/vuetify` directory, perform `yarn upgrade` followed by activating Hot-Module-Replacement of vue-cli-service.
 ```
+root@xxxxxxxxxxxx:/opt/html/vuetify# yarn upgrade
 root@xxxxxxxxxxxx:/opt/html/vuetify# yarn serve
 ```
 6. Start coding. Result can be dynamically checked via web browser with port 8080.
