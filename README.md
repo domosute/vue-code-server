@@ -29,3 +29,7 @@ root@xxxxxxxxxxxx:/opt/html/vuetify# yarn serve
 ```
 http://<hostname>:8080
 ```
+7. To create new project, perform `vue create <project name>` under `/opt/html` directory.
+```
+root@xxxxxxxxxxxx:/opt/html# vue create <project name>
+```
