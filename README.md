@@ -32,4 +32,8 @@ http://<hostname>:8080
 7. To create new project, perform `vue create <project name>` under `/opt/html` directory.
 ```
 root@xxxxxxxxxxxx:/opt/html# vue create <project name>
+root@xxxxxxxxxxxx:/opt/html# cd <project name>
+root@xxxxxxxxxxxx:/opt/html/<project name># yarn upgrade
+root@xxxxxxxxxxxx:/opt/html/<project name># yarn serve
+
 ```
