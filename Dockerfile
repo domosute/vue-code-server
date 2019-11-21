@@ -16,6 +16,9 @@ apt-get update && apt-get install -y yarn && \
 # Install vue-cli
 yarn global add @vue/cli && \
 yarn global add @vue/cli-service-global && \
+yarn upgrade && \
+# Cleaning up
+yarn autoclean && \
 apt-get autoclean
 
 COPY entrypoint.sh /usr/local/bin
