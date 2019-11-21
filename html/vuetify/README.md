@@ -1,4 +1,4 @@
-# vuetify
+# Vuetify
 
 ## Project setup
 ```
@@ -22,3 +22,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# VSCode Editor Optimization
+Great tutorial video from Vue Mastery course (free!)    
+https://www.vuemastery.com/courses/real-world-vue-js/optimizing-your-editor
+
