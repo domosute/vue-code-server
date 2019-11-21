@@ -13,13 +13,10 @@ curl -sS https://deb.nodesource.com/setup_10.x | bash - && \
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - && \
 echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list && \
 apt-get update && apt-get install -y yarn && \
+apt-get autoclean && \
 # Install vue-cli
 yarn global add @vue/cli && \
-yarn global add @vue/cli-service-global && \
-yarn upgrade && \
-# Cleaning up
-yarn autoclean && \
-apt-get autoclean
+yarn global add @vue/cli-service-global
 
 COPY entrypoint.sh /usr/local/bin
 RUN chmod 755 /usr/local/bin/entrypoint.sh
