@@ -25,9 +25,6 @@ WORKDIR /opt/html/
 # Opening Ports
 # - 8080: Hot-Module-Replacement (vue-cli-service)
 # - 8081: code-server
-<<<<<<< HEAD
 EXPOSE 8080 8081 
-=======
-EXPOSE 8000 8080 8081 
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
