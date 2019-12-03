@@ -16,19 +16,18 @@ apt-get update && apt-get install -y yarn && \
 apt-get autoclean && \
 # Install vue-cli
 yarn global add @vue/cli && \
-yarn global add @vue/cli-service-global
+yarn global add @vue/cli-service-global && \
+# Install JSON server
+yarn global add json-server
 
 COPY entrypoint.sh /usr/local/bin
 RUN chmod 755 /usr/local/bin/entrypoint.sh
 
 WORKDIR /opt/html/
 # Opening Ports
+# - 3000: json-server
 # - 8080: Hot-Module-Replacement (vue-cli-service)
 # - 8081: code-server
-<<<<<<< HEAD
 EXPOSE 8080 8081 
-=======
-EXPOSE 8000 8080 8081 
->>>>>>> cbfba449ef6c917d5c633de948e0a815f80c086c
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
