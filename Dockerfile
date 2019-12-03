@@ -28,6 +28,6 @@ WORKDIR /opt/html/
 # - 3000: json-server
 # - 8080: Hot-Module-Replacement (vue-cli-service)
 # - 8081: code-server
-EXPOSE 8080 8081 
+EXPOSE 3000 8080 8081 
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
