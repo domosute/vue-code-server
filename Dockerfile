@@ -20,6 +20,9 @@ yarn global add @vue/cli-service-global && \
 # Install JSON server
 yarn global add json-server
 
+#Increase the amount of inotify watchers
+RUN echo fs.inotify.max_user_watchers=524288 | tee -a /etc/sysctl.conf
+
 COPY entrypoint.sh /usr/local/bin
 RUN chmod 755 /usr/local/bin/entrypoint.sh
 
