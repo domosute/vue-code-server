@@ -1,5 +1,5 @@
-# vuetify-code-server
-- Vue.js3 + Vuetify + Code-server (https://coder.com) developement environement in Docker.
+# vue-code-server
+- Vue.js3 + Code-server (https://coder.com) developement environement in Docker.
 - Used [Coder](https://coder.com) as a base image.
 
 How to Run the Image
