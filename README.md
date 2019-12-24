@@ -6,7 +6,7 @@ How to Run the Image
 ------------
 1. Clone this repository.
 ```
-git clone https://github.com/domosute/vuetify-code-server.git
+git clone https://github.com/domosute/vue-code-server.git
 ```
 2. Build the image.
 ```
