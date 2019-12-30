@@ -1,5 +1,0 @@
-[2019-12-30 16:32:16.570] [remoteagent] [info] update#setState idle
-[2019-12-30 16:32:30.534] [remoteagent] [info] request.url "/"
-[2019-12-30 16:32:39.972] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
-[2019-12-30 16:32:46.569] [remoteagent] [info] update#setState checking for updates
-[2019-12-30 16:32:46.778] [remoteagent] [info] update#setState available for download

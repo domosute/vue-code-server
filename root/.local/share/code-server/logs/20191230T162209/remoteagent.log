@@ -1,6 +1,0 @@
-[2019-12-30 22:22:09.749] [remoteagent] [info] update#setState idle
-[2019-12-30 22:22:10.054] [remoteagent] [info] request.url "/"
-[2019-12-30 22:22:39.751] [remoteagent] [info] update#setState checking for updates
-[2019-12-30 22:22:39.949] [remoteagent] [info] update#setState available for download
-[2019-12-30 22:25:56.881] [remoteagent] [error] [File Watcher (chokidar)] terminated unexpectedly and is restarted again...
-[2019-12-30 22:43:45.409] [remoteagent] [error] [File Watcher (chokidar)] terminated unexpectedly and is restarted again...
