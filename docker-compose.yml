@@ -2,12 +2,12 @@ version: "3.7"
 
 services:
 
-  vuetify-code-server:
+  vue-code-server:
     build:
       context: .
       dockerfile: Dockerfile
-    image: vuetify-code-server
-    container_name: vuetify-code-server
+    image: vue-code-server
+    container_name: vue-code-server
     environment:
       TZ: "America/Chicago"
     ports:
