@@ -20,10 +20,18 @@ docker-compose up -d
 ```
 http://<hostname>:8081
 ```
-5. Open the terminal from code-server, and from the `/opt/html/vuetify` directory, perform `yarn upgrade` followed by activating Hot-Module-Replacement of vue-cli-service.
+5. Open the terminal from code-server, and from the `/opt/html/` directory, create the project.
 ```
-root@xxxxxxxxxxxx:/opt/html/vuetify# yarn upgrade
-root@xxxxxxxxxxxx:/opt/html/vuetify# yarn serve
+# Using Nuxt
+root@xxxxxxxxxxxx:/opt/html/# yarn create nuxt-app <project>
+# Using Quasar
+root@xxxxxxxxxxxx:/opt/html/# quasar create <project>
+```
+
+6. Go into created project folder and perform `yarn upgrade` followed by activating Hot-Module-Replacement of vue-cli-service.
+```
+root@xxxxxxxxxxxx:/opt/html/project# yarn upgrade
+root@xxxxxxxxxxxx:/opt/html/project# yarn dev
 ```
 6. Start coding. Result can be dynamically checked via web browser with port 8080.
 ```
