@@ -37,13 +37,6 @@ root@xxxxxxxxxxxx:/opt/html/project# yarn dev
 ```
 http://<hostname>:8080
 ```
-7. To create new project, perform `vue create <project name>` under `/opt/html` directory.
-```
-root@xxxxxxxxxxxx:/opt/html# vue create <project name>
-root@xxxxxxxxxxxx:/opt/html# cd <project name>
-root@xxxxxxxxxxxx:/opt/html/<project name># yarn upgrade
-root@xxxxxxxxxxxx:/opt/html/<project name># yarn serve
-```
 
 _[Note]: Make sure to add vue.config.js file with below content for http://localhost:8080 to work_
 
