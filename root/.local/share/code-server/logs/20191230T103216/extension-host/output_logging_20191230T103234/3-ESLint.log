@@ -1,0 +1,17 @@
+[Info  - 10:32:34 AM] ESLint server stopped.
+[Info  - 10:32:35 AM] ESLint server running in node v10.15.1
+[Info  - 10:32:35 AM] ESLint server is running.
+[Info  - 10:32:37 AM] ESLint library loaded from: /opt/html/nuxt-vuex/node_modules/eslint/lib/api.js
+[Info  - 11:16:09 AM] ESLint library loaded from: /opt/html/web/node_modules/eslint/lib/api.js
+[Error - 11:16:09 AM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/nuxt.config.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/nuxt.config.js from a terminal to obtain a trace about the configuration files used.

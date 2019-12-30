@@ -1,0 +1,219 @@
+[INFO - 11:25:23 AM] Extension Name: "prettier-vscode".
+[INFO - 11:25:23 AM] Extension Version: "3.5.0".
+[WARN - 11:25:23 AM] Falling back to bundled version of prettier.
+[INFO - 11:25:23 AM] Enabling prettier for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+[INFO - 11:25:23 AM] Enabling prettier for range supported languages:
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]
+[INFO - 11:35:26 AM] Formatting /opt/html/web/layouts/default.vue.
+[INFO - 11:35:26 AM] Loaded module 'prettier@1.19.1' from '/opt/html/web/node_modules/prettier/index.js'.
+[INFO - 11:35:26 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 11:35:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 11:35:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web/layouts/default.vue",
+  "parser": "vue"
+}
+[INFO - 11:35:26 AM] Formatting completed in 333.396279ms.
+[INFO - 12:22:30 PM] Formatting /opt/html/web/layouts/default.vue.
+[INFO - 12:22:30 PM] Loaded module 'prettier@1.19.1' from '/opt/html/web/node_modules/prettier/index.js'.
+[INFO - 12:22:30 PM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 12:22:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 12:22:30 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web/layouts/default.vue",
+  "parser": "vue"
+}
+[INFO - 12:22:30 PM] Formatting completed in 105.080389ms.
+[WARN - 3:04:12 PM] Falling back to bundled version of prettier.
+[INFO - 3:04:12 PM] Enabling prettier for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+[INFO - 3:04:12 PM] Enabling prettier for range supported languages:
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]
+[WARN - 3:04:12 PM] Falling back to bundled version of prettier.
+[INFO - 3:04:12 PM] Enabling prettier for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+[INFO - 3:04:12 PM] Enabling prettier for range supported languages:
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]
+[WARN - 3:05:10 PM] Falling back to bundled version of prettier.
+[INFO - 3:05:10 PM] Enabling prettier for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+[INFO - 3:05:10 PM] Enabling prettier for range supported languages:
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]
+[WARN - 3:05:10 PM] Falling back to bundled version of prettier.
+[INFO - 3:05:10 PM] Enabling prettier for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+[INFO - 3:05:10 PM] Enabling prettier for range supported languages:
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]

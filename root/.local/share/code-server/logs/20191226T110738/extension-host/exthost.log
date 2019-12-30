@@ -1,0 +1,50 @@
+[2019-12-26 17:07:56.721] [exthost] [info] extension host started
+[2019-12-26 17:07:56.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-26 17:07:56.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/configuration-editing/dist/extension
+[2019-12-26 17:07:56.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-26 17:07:56.779] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/extension-editing/dist/extension
+[2019-12-26 17:07:56.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2019-12-26 17:07:56.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/json-language-features/client/dist/jsonMain
+[2019-12-26 17:07:56.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-12-26 17:07:56.834] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/npm/dist/main
+[2019-12-26 17:07:56.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-26 17:07:56.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/debug-auto-launch/dist/extension
+[2019-12-26 17:07:56.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-26 17:07:56.851] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/emmet/dist/extension
+[2019-12-26 17:07:56.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-26 17:07:56.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/git/dist/main
+[2019-12-26 17:07:56.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-26 17:07:56.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/merge-conflict/dist/extension
+[2019-12-26 17:07:56.952] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-12-26 17:07:56.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/dbaeumer.vscode-eslint-1.9.2/client/out/extension
+[2019-12-26 17:07:56.974] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2019-12-26 17:07:56.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/esbenp.prettier-vscode-3.5.0/dist/extension
+[2019-12-26 17:07:57.120] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2019-12-26 17:07:57.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2019-12-26 17:07:57.160] [exthost] [info] eager extensions activated
+[2019-12-26 17:07:57.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-26 17:07:57.820] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension
+[2019-12-26 18:54:36.187] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"extensionId":{"value":"octref.vetur","_lower":"octref.vetur"},"activationEvent":"onLanguage:vue"}
+[2019-12-26 18:54:36.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/octref.vetur-0.22.6/dist/client/vueMain
+[2019-12-26 23:51:53.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-12-26 23:51:53.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/html-language-features/client/dist/htmlMain
+[2019-12-27 22:01:01.692] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-12-27 22:01:01.767] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:144)
+	at new x (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:93)
+	at new x (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:643)
+	at Function.convertNavTree (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension.js:1:141216)
+	at s.childItems.forEach.n (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension.js:1:141036)
+	at Array.forEach (<anonymous>)
+	at a.provideDocumentSymbols (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension.js:1:141023)
+	at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-12-27 22:01:02.270] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-12-27 22:01:02.270] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:144)
+	at new x (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:356:93)
+	at new x (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/out/vs/workbench/services/extensions/node/extensionHostProcess.js:344:643)
+	at Function.convertNavTree (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension.js:1:141216)
+	at s.childItems.forEach.n (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension.js:1:141036)
+	at Array.forEach (<anonymous>)
+	at a.provideDocumentSymbols (/src/build/code-server2.1697-vsc1.39.2-linux-x86_64-built/extensions/typescript-language-features/dist/extension.js:1:141023)
+	at process._tickCallback (internal/process/next_tick.js:68:7)

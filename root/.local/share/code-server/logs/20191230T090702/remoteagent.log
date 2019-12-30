@@ -1,0 +1,6 @@
+[2019-12-30 15:07:02.133] [remoteagent] [info] update#setState idle
+[2019-12-30 15:07:04.799] [remoteagent] [info] request.url "/"
+[2019-12-30 15:07:32.133] [remoteagent] [info] update#setState checking for updates
+[2019-12-30 15:07:32.314] [remoteagent] [info] update#setState available for download
+[2019-12-30 15:08:05.707] [remoteagent] [info] update#setState downloading
+[2019-12-30 15:08:09.167] [remoteagent] [info] update#setState ready

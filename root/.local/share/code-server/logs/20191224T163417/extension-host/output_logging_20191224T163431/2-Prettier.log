@@ -1,0 +1,343 @@
+[INFO - 4:34:31 PM] Extension Name: "prettier-vscode".
+[INFO - 4:34:31 PM] Extension Version: "3.5.0".
+[WARN - 4:34:31 PM] Falling back to bundled version of prettier.
+[INFO - 4:34:31 PM] Enabling prettier for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+[INFO - 4:34:31 PM] Enabling prettier for range supported languages:
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]
+[INFO - 4:35:32 PM] Formatting /opt/html/web2/pages/index.vue.
+[INFO - 4:35:32 PM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 4:35:32 PM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 4:35:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 4:35:32 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/pages/index.vue",
+  "parser": "vue"
+}
+[INFO - 4:35:33 PM] Formatting completed in 228.805081ms.
+[INFO - 4:35:40 PM] Formatting /opt/html/web2/pages/inspire.vue.
+[INFO - 4:35:40 PM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 4:35:40 PM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 4:35:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 4:35:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/pages/inspire.vue",
+  "parser": "vue"
+}
+[INFO - 4:35:40 PM] Formatting completed in 30.438691ms.
+[INFO - 4:35:47 PM] Formatting /opt/html/web2/layouts/default.vue.
+[INFO - 4:35:47 PM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 4:35:47 PM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 4:35:47 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 4:35:47 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/layouts/default.vue",
+  "parser": "vue"
+}
+[INFO - 4:35:47 PM] Formatting completed in 101.223708ms.
+[INFO - 4:35:54 PM] Formatting /opt/html/web2/components/Logo.vue.
+[INFO - 4:35:54 PM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 4:35:54 PM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 4:35:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 4:35:54 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/components/Logo.vue",
+  "parser": "vue"
+}
+[INFO - 4:35:54 PM] Formatting completed in 81.363453ms.
+[INFO - 4:36:00 PM] Formatting /opt/html/web2/components/Card.vue.
+[INFO - 4:36:00 PM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 4:36:00 PM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 4:36:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 4:36:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/components/Card.vue",
+  "parser": "vue"
+}
+[INFO - 4:36:00 PM] Formatting completed in 39.644415ms.
+[INFO - 9:11:00 AM] Formatting /opt/html/web2/pages/inspire.vue.
+[INFO - 9:11:00 AM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 9:11:00 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:11:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:11:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/pages/inspire.vue",
+  "parser": "vue"
+}
+[INFO - 9:11:00 AM] Formatting completed in 35.140099ms.
+[INFO - 9:11:13 AM] Formatting /opt/html/web2/pages/index.vue.
+[INFO - 9:11:13 AM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 9:11:13 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:11:13 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:11:13 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/pages/index.vue",
+  "parser": "vue"
+}
+[INFO - 9:11:13 AM] Formatting completed in 41.715698ms.
+[INFO - 9:11:31 AM] Formatting /opt/html/web2/layouts/default.vue.
+[INFO - 9:11:31 AM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 9:11:31 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:11:31 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:11:31 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/layouts/default.vue",
+  "parser": "vue"
+}
+[INFO - 9:11:31 AM] Formatting completed in 78.904301ms.
+[INFO - 9:12:00 AM] Formatting /opt/html/web2/components/Card.vue.
+[INFO - 9:12:00 AM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 9:12:00 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:12:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:12:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/components/Card.vue",
+  "parser": "vue"
+}
+[INFO - 9:12:00 AM] Formatting completed in 40.72098ms.
+[INFO - 9:12:05 AM] Formatting /opt/html/web2/components/Logo.vue.
+[INFO - 9:12:05 AM] Loaded module 'prettier@1.19.1' from '/opt/html/web2/node_modules/prettier/index.js'.
+[INFO - 9:12:05 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:12:05 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:12:05 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/web2/components/Logo.vue",
+  "parser": "vue"
+}
+[INFO - 9:12:05 AM] Formatting completed in 29.062866ms.

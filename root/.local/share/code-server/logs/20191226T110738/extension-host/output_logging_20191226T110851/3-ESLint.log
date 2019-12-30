@@ -1,0 +1,175 @@
+[Info  - 11:08:51 AM] ESLint server stopped.
+[Info  - 11:08:51 AM] ESLint server running in node v10.15.1
+[Info  - 11:08:51 AM] ESLint server is running.
+[Info  - 11:08:53 AM] ESLint library loaded from: /opt/html/test/node_modules/eslint/lib/api.js
+[Info  - 11:12:36 AM] ESLint library loaded from: /opt/html/web/node_modules/eslint/lib/api.js
+[Error - 11:12:36 AM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/.nuxt/client.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/.nuxt/client.js from a terminal to obtain a trace about the configuration files used.
+[Error - 11:13:26 AM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/.nuxt/client.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/.nuxt/client.js from a terminal to obtain a trace about the configuration files used.
+[Error - 11:13:42 AM] Cannot read config file: /opt/html/test/node_modules/eslint-plugin-vue/lib/index.js Error: wrapCoreRule is not a function Referenced from: /opt/html/test/.eslintrc.js
+[Error - 11:13:43 AM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/.nuxt/client.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/.nuxt/client.js from a terminal to obtain a trace about the configuration files used.
+[Error - 11:14:06 AM] ESLint stack trace:
+[Error - 11:14:06 AM] TypeError: wrapCoreRule is not a function
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/rules/array-bracket-spacing.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:717:10)
+    at Module.load (internal/modules/cjs/loader.js:611:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:550:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:542:3)
+    at Module.require (internal/modules/cjs/loader.js:649:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/index.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+[Error - 11:14:06 AM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/.nuxt/client.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/.nuxt/client.js from a terminal to obtain a trace about the configuration files used.
+[Error - 12:16:10 PM] ESLint stack trace:
+[Error - 12:16:10 PM] TypeError: wrapCoreRule is not a function
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/rules/array-bracket-spacing.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:717:10)
+    at Module.load (internal/modules/cjs/loader.js:611:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:550:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:542:3)
+    at Module.require (internal/modules/cjs/loader.js:649:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/index.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+[Error - 1:28:48 PM] ESLint stack trace:
+[Error - 1:28:48 PM] TypeError: wrapCoreRule is not a function
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/rules/array-bracket-spacing.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:717:10)
+    at Module.load (internal/modules/cjs/loader.js:611:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:550:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:542:3)
+    at Module.require (internal/modules/cjs/loader.js:649:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/index.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+[Error - 4:51:53 PM] ESLint stack trace:
+[Error - 4:51:53 PM] TypeError: wrapCoreRule is not a function
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/rules/array-bracket-spacing.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:717:10)
+    at Module.load (internal/modules/cjs/loader.js:611:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:550:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:542:3)
+    at Module.require (internal/modules/cjs/loader.js:649:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/index.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+[Error - 5:17:46 PM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/store/index.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/store/index.js from a terminal to obtain a trace about the configuration files used.
+[Error - 5:17:46 PM] ESLint stack trace:
+[Error - 5:17:46 PM] TypeError: wrapCoreRule is not a function
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/rules/array-bracket-spacing.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:717:10)
+    at Module.load (internal/modules/cjs/loader.js:611:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:550:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:542:3)
+    at Module.require (internal/modules/cjs/loader.js:649:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/index.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+[Error - 5:18:13 PM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/store/index.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/store/index.js from a terminal to obtain a trace about the configuration files used.
+[Error - 5:18:13 PM] ESLint stack trace:
+[Error - 5:18:13 PM] TypeError: wrapCoreRule is not a function
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/rules/array-bracket-spacing.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:717:10)
+    at Module.load (internal/modules/cjs/loader.js:611:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:550:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:542:3)
+    at Module.require (internal/modules/cjs/loader.js:649:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/index.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+[Error - 5:18:57 PM] 
+Failed to load plugin 'import' declared in 'web/.eslintrc.js » @nuxtjs/eslint-config': Cannot find module 'eslint-plugin-import'
+Require stack:
+- /opt/html/__placeholder__.js
+Referenced from: /opt/html/web/node_modules/@nuxtjs/eslint-config/index.js
+Happened while validating /opt/html/web/store/index.js
+This can happen for a couple of reasons:
+1. The plugin name is spelled incorrectly in an ESLint configuration file (e.g. .eslintrc).
+2. If ESLint is installed globally, then make sure 'eslint-plugin-import' is installed globally as well.
+3. If ESLint is installed locally, then 'eslint-plugin-import' isn't installed correctly.
+
+Consider running eslint --debug /opt/html/web/store/index.js from a terminal to obtain a trace about the configuration files used.
+[Error - 5:18:57 PM] ESLint stack trace:
+[Error - 5:18:57 PM] TypeError: wrapCoreRule is not a function
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/rules/array-bracket-spacing.js:9:18)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:717:10)
+    at Module.load (internal/modules/cjs/loader.js:611:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:550:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:542:3)
+    at Module.require (internal/modules/cjs/loader.js:649:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/opt/html/test/node_modules/eslint-plugin-vue/lib/index.js:10:30)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+[Info  - 5:19:54 PM] ESLint library loaded from: /opt/html/nuxt-vuex/node_modules/eslint/lib/api.js

@@ -1,0 +1,7 @@
+[2019-12-26 17:07:38.991] [remoteagent] [info] update#setState idle
+[2019-12-26 17:07:52.575] [remoteagent] [info] request.url "/"
+[2019-12-26 17:08:08.990] [remoteagent] [info] update#setState checking for updates
+[2019-12-26 17:08:09.220] [remoteagent] [info] update#setState available for download
+[2019-12-26 17:10:10.624] [remoteagent] [error] [File Watcher (chokidar)] terminated unexpectedly and is restarted again...
+[2019-12-27 23:24:05.628] [remoteagent] [error] [File Watcher (chokidar)] terminated unexpectedly and is restarted again...
+[2019-12-27 23:24:10.884] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

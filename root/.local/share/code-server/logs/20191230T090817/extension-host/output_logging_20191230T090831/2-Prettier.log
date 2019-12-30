@@ -1,0 +1,126 @@
+[INFO - 9:08:31 AM] Extension Name: "prettier-vscode".
+[INFO - 9:08:31 AM] Extension Version: "3.5.0".
+[WARN - 9:08:31 AM] Falling back to bundled version of prettier.
+[INFO - 9:08:31 AM] Enabling prettier for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+[INFO - 9:08:31 AM] Enabling prettier for range supported languages:
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]
+[INFO - 9:11:51 AM] Formatting /opt/html/nuxt-vuex/pages/event/_id.vue.
+[INFO - 9:11:51 AM] Loaded module 'prettier@1.14.3' from '/opt/html/nuxt-vuex/node_modules/prettier/index.js'.
+[INFO - 9:11:51 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:11:51 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:11:51 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/nuxt-vuex/pages/event/_id.vue",
+  "parser": "vue"
+}
+[INFO - 9:11:51 AM] Formatting completed in 263.893345ms.
+[INFO - 9:12:03 AM] Formatting /opt/html/nuxt-vuex/pages/event/_id.vue.
+[INFO - 9:12:03 AM] Loaded module 'prettier@1.14.3' from '/opt/html/nuxt-vuex/node_modules/prettier/index.js'.
+[INFO - 9:12:03 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:12:03 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:12:03 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/nuxt-vuex/pages/event/_id.vue",
+  "parser": "vue"
+}
+[INFO - 9:12:03 AM] Formatting completed in 30.95651ms.
+[INFO - 9:12:54 AM] Formatting /opt/html/nuxt-vuex/pages/index.vue.
+[INFO - 9:12:54 AM] Loaded module 'prettier@1.14.3' from '/opt/html/nuxt-vuex/node_modules/prettier/index.js'.
+[INFO - 9:12:54 AM] Resolved ignore file to /opt/html/.prettierignore.
+[INFO - 9:12:54 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "vue"
+}
+[INFO - 9:12:54 AM] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/opt/html/nuxt-vuex/pages/index.vue",
+  "parser": "vue"
+}
+[INFO - 9:12:54 AM] Formatting completed in 25.676667ms.

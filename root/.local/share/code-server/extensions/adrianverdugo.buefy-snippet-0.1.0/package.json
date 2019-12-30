@@ -1,0 +1,41 @@
+{
+	"name": "buefy-snippet",
+	"displayName": "buefy_snippet",
+	"description": "buefy-component",
+	"keywords": [
+		"snippets",
+		"Bulma",
+		"Vue",
+		"Buefy"
+	],
+	"version": "0.1.0",
+	"publisher": "adrianverdugo",
+	"engines": {
+		"vscode": "^1.14.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#3a383d",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adrian273/buefy-snippet"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "vue",
+				"path": "./snippets/vue.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "adrianverdugo.buefy-snippet",
+		"publisherId": "adrianverdugo",
+		"publisherDisplayName": "adrianverdugo"
+	}
+}
