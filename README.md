@@ -24,8 +24,6 @@ http://<hostname>:8081
 ```
 # Using Nuxt
 root@xxxxxxxxxxxx:/opt/html/# yarn create nuxt-app <project>
-# Using Quasar
-root@xxxxxxxxxxxx:/opt/html/# quasar create <project>
 ```
 
 6. Go into created project folder and perform `yarn upgrade` followed by activating Hot-Module-Replacement of vue-cli-service.
@@ -41,9 +39,10 @@ http://<hostname>:8080
 _[Note]: Make sure to add vue.config.js file with below content for http://localhost:8080 to work_
 
 ```
-module.exports = {
-  devServer: {
-    disableHostCheck: true
-  }
+export.default = {
+  server: {
+    host:''
+  },
+  ...
 }
 ```
