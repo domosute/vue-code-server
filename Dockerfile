@@ -27,14 +27,9 @@ yarn global upgrade
 #Increase the amount of inotify watchers
 RUN echo fs.inotify.max_user_watches=524288 | tee -a /etc/sysctl.conf | sysctl -p
 
-COPY entrypoint.sh /usr/local/bin
-RUN chmod 755 /usr/local/bin/entrypoint.sh
-
 WORKDIR /opt/html/
 # Opening Ports
 # - 3000: json-server
 # - 8080: Hot-Module-Replacement (vue-cli-service)
 # - 8081: code-server
 EXPOSE 3000 8080 8081 
-
-ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
